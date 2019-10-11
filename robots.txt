@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kiighizaen.54skyray.cn/sitemap.xml
